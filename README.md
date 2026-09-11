@@ -1,21 +1,27 @@
-# React + TypeScript + Vite
+# crowelogicos
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The stock Vite React TypeScript starter, committed once and never changed; no Crowe code was added.
 
-While this project uses React, Vite supports many popular JS frameworks. [See all the supported frameworks](https://vitejs.dev/guide/#scaffolding-your-first-vite-project).
+## Status
 
-## Deploy Your Own
+archived
 
-Deploy your own Vite project with Vercel.
+One commit, dated 2025-07-12 ("Initial commit"). It is the unmodified `vite-react` boilerplate from Vercel's examples: `package.json` is still named `vite-react` at version `0.0.0`, and `src/App.tsx` is the stock counter demo. No commits since. One open dependabot pull request (#1, 2026-04-09, a `vite` version bump) is untouched. Development never started. The repository is kept for reference.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/examples/tree/main/framework-boilerplates/vite-react&template=vite-react)
+## Install and first run
 
-_Live Example: https://vite-react-example.vercel.app_
+Not maintained. No supported install path. The repository has no lockfile, so dependencies were not installed and nothing was run on 2026-09-10.
 
-### Deploying From Your Terminal
+## What runs today
 
-You can deploy your new Vite project with a single command from your terminal using [Vercel CLI](https://vercel.com/download):
+Nothing is maintained. The repository holds 16 files: `index.html`, `src/App.tsx`, `src/main.tsx`, two CSS files, two SVG logos, `vite.config.ts`, `eslint.config.js`, three `tsconfig` files, `package.json`, `.gitignore`, and this README. All of it is template output.
 
-```shell
-$ vercel
-```
+## Limits
+
+This is not an operating system, a product, or a Crowe Logic application, despite the name. It holds no Crowe code, no data, and no deployment. It must not be cited as evidence of any Crowe Logic OS or desktop product.
+
+## License and contact
+
+No license file.
+
+Contact: michael@crowelogic.com
